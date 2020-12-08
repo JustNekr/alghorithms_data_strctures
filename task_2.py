@@ -15,4 +15,4 @@ even = []
 for id, i in enumerate(array):
     if i % 2 == 0:
         even.append(id)
-print(f'позиции четных элементов: {even)
+print(f'позиции четных элементов: {even}')
